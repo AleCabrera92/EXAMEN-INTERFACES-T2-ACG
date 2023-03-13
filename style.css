@@ -1,0 +1,7 @@
+.body {
+    overflow:hidden!important;
+}
+
+.routes {
+    overflow-y:scroll!important;
+}
